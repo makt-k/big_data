@@ -1,0 +1,77 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: ppus07at10.csv,,,,,,,,,,,
+"Appendix table 10. Adults on parole, by race/ethnic origin, 2007",,,,,,,,,,,
+Data source: 2007 Annual Parole Survey,,,,,,,,,,,
+"Author: Lauren E. Glaze, Thomas P. Bonczar, Matthew S. Cooper",,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,,,,,
+Date of version: 08/10/2009,,,,,,,,,,,
+
+"Appendix table 10. Adults on parole, by race/ethnic origin, 2007",,,,,,,,,,,
+,,,,Race/ethnic origin,,,,,,,
+Region and jurisdiction,,,"Parole population, 12/31/2007",White,Black/African American,Hispanic or Latino,American Indian/Alaskan Native,Asian,Native Hawaiian/Other Pacific Islander,Two or more races,Unknown or not reported
+,,U.S. total/a,"826,097","332,652","308,113","152,870","7,766","5,689",502,568,"17,937"
+,Federal ,,"92,673","34,422","33,364","20,145","1,872","2,193",228,0,449
+,State/a,,"733,424","298,230","274,749","132,725","5,894","3,496",274,568,"17,488"
+Northeast,,,"155,288","59,336","62,545","29,050",352,845,4,58,"3,098"
+,Connecticut ,,"2,177",492,945,631,4,13,~,~,92
+,Maine ,,32,32,0,0,0,0,0,0,0
+,Massachusetts/b,,"3,209","1,659",813,620,3,48,0,0,66
+,New Hampshire/b,,"1,653","1,066",91,353,5,6,1,0,131
+,New Jersey,,"15,043","4,167","7,452","3,274",12,138,0,0,0
+,New York ,,"53,669","9,517","24,443","17,852",259,313,0,0,"1,285"
+,Pennsylvania,,"78,107","41,269","28,665","6,245",64,318,3,58,"1,485"
+,Rhode Island/c,,462,277,99,75,1,8,**,**,2
+,"Vermont/b,d",,936,857,37,**,4,1,**,**,37
+Midwest,,,"138,075","67,481","60,034","8,030","1,842",529,0,6,153
+,Illinois/b,,"35,086","10,151","20,473","4,313",39,99,**,**,11
+,Indiana ,,"10,362","6,057","3,870",375,26,8,~,6,20
+,Iowa ,,"3,546","2,809",531,137,42,26,~,**,1
+,Kansas/b,,"4,842","2,870","1,403",468,65,36,**,**,0
+,Michigan ,,"21,131","9,387","11,302",233,140,41,0,0,28
+,Minnesota,,"4,744","2,868","1,096",405,273,102,0,0,0
+,Missouri,,"19,849","13,129","6,236",397,54,33,**,**,0
+,Nebraska,,800,489,178,89,29,13,0,**,2
+,North Dakota ,,342,247,14,20,59,2,0,0,0
+,Ohio/b,,"17,575","9,631","7,733",141,35,18,0,0,17
+,South Dakota,,"2,812","2,030",149,42,587,**,**,**,4
+,Wisconsin/e,,"16,986","7,813","7,049","1,410",493,151,**,**,70
+South/a,,,"243,512","92,272","114,940","31,546",213,359,27,25,"4,130"
+,Alabama,,"7,790","2,771","4,975",31,2,10,**,**,1
+,Arkansas/b,,"19,388","11,007","7,876",397,26,53,0,**,29
+,Delaware ,,535,212,310,12,0,0,0,**,1
+,District of Columbia,,"5,569",52,"5,429",72,0,3,0,0,13
+,Florida,,"4,654","1,731","2,480",421,5,5,5,6,1
+,Georgia,,"23,111","8,365","13,841",784,16,15,0,**,90
+,Kentucky,,"12,741","9,137","3,275",41,7,17,**,19,245
+,Louisiana ,,"24,085","8,731","15,235",28,4,16,21,0,50
+,Maryland ,,"13,856","3,590","10,210",**,10,25,**,**,21
+,Mississippi ,,"2,015",885,"1,113",10,5,2,0,0,0
+,North Carolina ,,"3,311","1,128","1,920",151,59,17,1,**,35
+,Oklahoma,,/,/,/,/,/,/,/,/,/
+,South Carolina ,,"2,433",810,"1,591",19,4,1,0,~,8
+,Tennessee,,"10,496","5,178","5,012",272,11,22,0,0,1
+,Texas/b,,"101,748","33,732","38,111","29,307",53,173,0,0,372
+,Virginia/b,,"6,850","3,320","3,357",**,10,**,**,**,163
+,West Virginia ,,"1,830","1,623",205,1,1,0,0,0,0
+West,,,"196,549","79,141","37,230","64,099","3,487","1,763",243,479,"10,107"
+,Alaska/e,,"1,544",599,165,30,278,38,**,425,9
+,Arizona,,"6,807","3,414",891,"2,026",396,20,0,0,60
+,California/b,,"123,764","37,121","29,295","51,351","1,016",982,181,**,"3,818"
+,Colorado ,,"11,086","5,383","1,801","3,588",213,101,~,~,0
+,Hawaii ,,"2,110",**,**,**,**,**,**,**,"2,110"
+,Idaho,,"3,114","2,328",54,615,59,20,~,~,38
+,Montana ,,966,779,15,21,135,6,0,7,3
+,Nevada,,"3,653",**,**,**,**,**,**,**,"3,653"
+,New Mexico,,"3,527",918,214,"1,749",240,7,1,0,398
+,Oregon,,"22,658","17,630","1,922","2,420",473,198,~,~,15
+,Utah,,"3,597","2,466",161,732,129,51,58,0,0
+,Washington,,"13,017","7,941","2,685","1,481",520,338,2,47,3
+,Wyoming,,706,562,27,86,28,2,1,0,0
+~ Not applicable.,,,,,,,,,,,
+** Not known.,,,,,,,,,,,
+/ Not reported.,,,,,,,,,,,
+"a/lncludes an estimated 3,100 parolees under supervision in Oklahoma on December 31, 2007. See Methodology.",,,,,,,,,,,
+b/Some or all detailed data are estimated for race.,,,,,,,,,,,
+"c/Classifies Hispanic as a race rather than an ethnicity; therefore, it cannot be determined whether parolees who are Hispanic are also of another race. Additionally, those parolees who are of another race may also be Hispanic. ",,,,,,,,,,,
+"d/Does not collect ethnicity data; therefore, the number of Hispanic parolees cannot be determined. Additionally, whether or not other racial categories include Hispanic parolees cannot be determined. ",,,,,,,,,,,
+"e/""Asian” includes an unspecified number of parolees who are “Native Hawaiian/Other Pacific Islander” because “Native Hawaiian/Other Pacific Islander” could not be reported separately. ",,,,,,,,,,,

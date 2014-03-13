@@ -1,0 +1,78 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: ppus07st07.csv,,,,,,,,,,,
+"Table 7.  Adults leaving parole, by type of exit, 2007",,,,,,,,,,,
+"Report title: Probation and Parole in the United States, 2007 - Statistical Tables  NCJ 224707",,,,,,,,,,,
+Data source: Annual Parole Survey ,,,,,,,,,,,
+"Author(s): Lauren E. Glaze, Thomas P. Bonczar, and Matthew S. Cooper ",,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,
+Date of version: 08/10/2009,,,,,,,,,,,
+
+"Table 7.  Adults leaving parole, by type of exit, 2007",,,,,,,,,,,
+,,,"Number of adults exiting parole, 2007",,,,,,,,
+,,,,,Returned to prison or jail,,,,,,
+Region and jurisdiction,,,Total reported exits,Completion,Total,With new sentence,With revocation,Other,Other unsatisfactory/a,Other/b,Unknown
+,,U.S. total,"514,962","235,004","193,636","51,121","136,228","6,287","8,834","73,145","4,343"
+,Federal,,"39,397","24,152","10,573","1,963","8,490",120,"1,678","2,994",0
+,State,,"475,565","210,852","183,063","49,158","127,738","6,167","7,156","70,151","4,343"
+Northeast,,,"54,210","29,195","23,125","4,774","15,717","2,634",0,"1,603",287
+,Connecticut/c,,"2,709",849,"1,463",0,0,"1,463",0,198,199
+,Maine ,,1,0,0,0,0,0,0,1,0
+,Massachusetts/c,,"5,178","4,206",931,**,**,931,0,41,0
+,New Hampshire ,,677,94,569,569,0,0,0,13,1
+,New Jersey ,,"8,867","6,052","2,757",274,"2,483",0,0,58,0
+,New York,,"24,799","12,626","11,880","1,960","9,704",216,0,293,0
+,Pennsylvania,,"11,060","4,788","5,243","1,884","3,359",0,0,942,87
+,Rhode Island ,,385,273,111,23,88,0,0,1,0
+,Vermont/c,,534,307,171,64,83,24,0,56,0
+Midwest,,,"97,619","55,953","35,368","9,581","24,668","1,119",54,"6,023",221
+,Illinois,,"32,782","20,400","10,383","3,764","6,619",~,0,"1,789",210
+,Indiana,,"7,060","5,244","1,110",**,**,"1,110",0,695,11
+,Iowa,,"2,532","1,731",774,**,774,0,0,27,0
+,Kansas,,"5,322","2,055","1,494",192,"1,293",9,0,"1,773",0
+,Michigan ,,"10,528","6,273","4,095","1,994","2,101",0,0,160,0
+,Minnesota,,"5,416","2,692","2,286",222,"2,064",0,0,438,0
+,Missouri,,"13,080","4,709","8,213","1,164","7,049",0,~,158,0
+,Nebraska ,,"1,012",730,278,33,245,0,0,4,0
+,North Dakota ,,814,639,168,32,136,0,0,7,0
+,Ohio,,"10,035","7,429","1,876","1,327",549,0,0,730,0
+,South Dakota,,"1,800",741,870,112,758,0,25,164,0
+,Wisconsin,,"7,238","3,310","3,821",741,"3,080",0,29,78,0
+South,,,"101,793","61,294","29,780","12,038","15,338","2,404","4,984","4,927",808
+,Alabama/c,,"2,182","1,394",687,388,299,0,0,71,30
+,Arkansas ,,"7,751","4,321","2,843",848,"1,926",69,0,587,0
+,Delaware,,375,211,**,**,**,**,83,81,0
+,District of Columbia,,"2,240",534,920,0,0,920,56,529,201
+,Florida,,"7,172","4,909","1,804",410,"1,394",0,0,76,383
+,Georgia ,,"11,782","7,225","4,491",17,"3,514",960,0,66,0
+,Kentucky,,"4,959","1,316","3,101",535,"2,566",0,0,542,0
+,Louisiana,,"13,399","7,205","2,688","1,406","1,036",246,"3,268",238,0
+,Maryland,,"7,617","4,312","1,599",830,769,0,"1,554",152,0
+,Mississippi,,905,624,209,**,**,209,0,72,0
+,North Carolina,,"3,477","2,862",198,93,105,0,23,200,194
+,Oklahoma/d,,/,/,/,/,/,/,/,/,/
+,South Carolina,,932,697,209,37,172,0,0,26,0
+,Tennessee,,"3,474","1,759","1,606",697,909,0,0,109,0
+,Texas/c,,"32,202","22,163","9,009","6,767","2,242",0,0,"1,030",0
+,Virginia,,"2,196","1,076",**,**,**,**,**,"1,120",0
+,West Virginia,,"1,130",686,416,10,406,0,0,28,0
+West,,,"221,943","64,410","94,790","22,765","72,015",10,"2,118","57,598","3,027"
+,Alaska,,692,**,**,**,**,**,**,**,692
+,Arizona/c,,"14,518","11,003","2,934",206,"2,728",0,0,577,4
+,California,,"174,076","40,456","81,431","19,829","61,602",0,0,"52,189",0
+,Colorado,,"7,554","3,087","4,361","1,078","3,283",0,0,106,0
+,Hawaii,,892,370,313,11,302,0,0,8,201
+,Idaho,,"1,307",503,501,112,389,0,289,14,0
+,Montana,,647,336,195,12,183,0,0,116,0
+,Nevada,,"3,824","3,102",509,381,128,0,0,213,0
+,New Mexico,,"2,003",**,**,**,**,**,**,**,"2,003"
+,Oregon,,"8,583","4,696","2,823",806,"2,012",5,770,167,127
+,Utah ,,"2,269",533,"1,648",323,"1,320",5,1,87,0
+,Washington,,"5,302",158,**,**,**,0,"1,058","4,086",0
+,Wyoming ,,276,166,75,7,68,0,0,35,0
+**Not known.,,,,,,,,,,,
+/Not reported.,,,,,,,,,,,
+~Not applicable.,,,,,,,,,,,
+"a/Includes parolees released from parole supervision who failed to meet all conditions of supervision, including some with only financial conditions remaining whose case may have been turned over to a business office, and other types of unsatisfactory expirations of sentence.",,,,,,,,,,,
+"b/Includes 54,931 parolees who had absconded (including 47,281 in California), 5,029 who had died, 3,733 who had transferred to another jurisdiction, and 9,452 others.",,,,,,,,,,,
+c/Some or all detailed data are estimated.,,,,,,,,,,,
+"d/No data provided. An estimated total of 1,000 adults exited parole supervision in Oklahoma during 2007. See table 3 and Methodology.",,,,,,,,,,,

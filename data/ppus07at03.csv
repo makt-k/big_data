@@ -1,0 +1,78 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,
+Filename: ppus07at03.csv,,,,,,,,,,,,,,
+"Appendix table 3. Adults leaving probation, by type of exit, 2007",,,,,,,,,,,,,,
+Data source: 2007 Annual Probation Survey,,,,,,,,,,,,,,
+Author: Lauren E. Glaze and Thomas P. Bonczar,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,,,,,,,,
+Date of version: 02/23/09,,,,,,,,,,,,,,
+
+"Appendix table 3. Adults leaving probation, by type of exit, 2007",,,,,,,,,,,,,,
+,,,"Number of adults leaving probation, 2007",,,,,,,,,,,
+,,,,,Incarcerated,,,,,,,,,
+Region and jurisdiction,,,Total reported,Completion,With new sentence,Under current sentence,Other/unknown,Absconder,Discharged to warrant or detainer,Other unsatisfactory/a,Transferred to another probation agency,Death,Other/b,Unknown or not reported
+,,U.S. total,"2,122,681","982,072","56,335","124,032","75,462","52,030","13,648","177,441","11,122","8,999","83,574","537,966"
+,Federal,,"12,830","10,792",178,"1,125",27,222,0,290,35,118,43,0
+,State,,"2,109,851","971,280","56,157","122,907","75,435","51,808","13,648","177,151","11,087","8,881","83,531","537,966"
+Northeast,,,"222,276","56,506","4,399",645,"1,264",0,7,"9,388",401,524,"3,202","145,940"
+,Connecticut,,"25,502","25,502",**,**,**,**,**,**,**,**,**,0
+,Maine  ,,"3,691","3,071",**,**,620,0,0,0,0,0,0,0
+,Massachusetts ,,"90,964",**,**,**,**,**,**,**,**,**,**,"90,964"
+,New Hampshire/c,,"3,020",**,**,**,492,**,**,**,**,18,**,"2,510"
+,New Jersey  ,,"46,991",**,**,**,**,**,**,**,**,**,**,"46,991"
+,New York ,,"39,348","23,171","3,953",~,~,**,~,"8,899",~,437,"2,888",0
+,Pennsylvania/d  ,,"2,180","1,105",228,381,0,0,7,0,401,35,23,0
+,Rhode Island/c,,"5,627",**,**,**,152,**,**,**,**,**,**,"5,475"
+,Vermont/c,,"4,953","3,657",218,264,~,~,~,489,~,34,291,0
+Midwest,,,"551,617","198,549","17,910","37,681","5,172","19,233","3,792","9,791","4,654","1,048","9,414","244,373"
+,Illinois/c ,,"57,944",**,**,**,**,**,**,**,**,**,**,"57,944"
+,Indiana/c ,,"98,142","63,031","7,326","11,180",~,"7,912",~,~,"3,271",~,"5,422",0
+,Iowa,,"15,770","11,656",**,**,"2,978",116,0,2,7,69,942,0
+,Kansas,,"19,471","12,076",94,**,**,**,**,"3,088",**,**,**,"4,213"
+,Michigan/c ,,"80,140","23,302","1,514","1,675",184,770,"2,625","3,055",71,105,594,"46,245"
+,Minnesota ,,"78,550",**,**,**,**,**,**,**,**,**,**,"78,550"
+,Missouri,,"24,791","9,574","3,416","9,484",**,"1,960",**,**,**,306,**,51
+,Nebraska,,"14,717","12,725","1,177",649,0,30,28,45,12,51,0,0
+,North Dakota ,,"2,847","1,513",554,636,0,112,0,0,3,29,0,0
+,Ohio/c,,"128,862","43,965","3,047","6,388","1,713","8,316","1,139","2,835","1,290",343,"2,456","57,370"
+,South Dakota ,,"3,489","3,192",**,**,297,**,**,**,~,**,**,0
+,Wisconsin,,"26,894","17,515",782,"7,669",0,17,0,766,0,145,0,0
+South,,,"936,524","551,388","30,968","70,329","65,386","26,104","8,987","66,633","3,040","6,307","32,692","74,690"
+,Alabama,,"14,723","10,198","1,609","1,489",**,**,**,**,**,274,**,"1,153"
+,Arkansas,,"8,858","5,708",949,"1,439",1,**,**,0,589,172,0,0
+,Delaware,,"15,596","7,455",**,**,**,**,**,"6,867",**,121,"1,153",0
+,District of Columbia,,"5,189","2,653",**,**,"1,235",**,**,594,9,30,161,507
+,Florida/c,,"233,891","113,791","14,396","30,741",784,854,"8,926","6,731",47,"1,306","13,832","42,483"
+,Georgia,,"278,327","184,797","2,981","5,744",**,"13,350",**,"40,107","1,645",377,"1,952","27,374"
+,Kentucky,,"9,596","4,157",682,"3,277",0,355,61,128,739,167,30,0
+,Louisiana,,"14,026","7,476",929,"3,788",0,0,0,"1,250",0,212,371,0
+,Maryland,,"32,416","19,369","2,584","3,781",0,~,~,"4,419",11,342,"1,910",0
+,Mississippi,,"12,257","5,945",**,**,636,"1,364",**,23,**,50,"4,239",0
+,North Carolina,,"65,405","32,256","3,941","10,994",0,"10,181",**,"5,466",~,606,0,"1,961"
+,Oklahoma/e,,"1,998",598,**,**,**,**,**,188,**,**,**,"1,212"
+,South Carolina ,,"14,531","9,078",595,"4,597",0,0,0,0,0,191,70,0
+,Tennessee,,"23,024","15,074","2,302","4,479",0,**,**,860,0,309,0,0
+,Texas ,,"180,606","119,655",**,**,"51,988",**,**,**,**,"1,772","7,191",0
+,Virginia/c ,,"24,629","13,178",**,**,"9,290",**,**,**,**,378,"1,783",0
+,West Virginia ,,"1,452",**,**,**,"1,452",**,**,**,**,**,**,0
+West,,,"399,434","164,837","2,880","14,252","3,613","6,471",862,"91,339","2,992","1,002","38,223","72,963"
+,Alaska ,,910,**,**,**,**,**,**,**,**,**,**,910
+,Arizona,,"25,787","17,888",**,"6,898",**,**,**,270,**,264,**,467
+,California/c,,"188,080","85,731",**,**,**,**,**,"78,931",**,**,"23,418",0
+,Colorado/c,,"33,351","17,228",25,229,"3,613","4,051",78,468,"1,932",136,724,"4,867"
+,Hawaii/c ,,"5,694","4,216",220,408,**,**,**,**,98,30,**,722
+,Idaho/c,,"39,603","2,094",790,**,**,**,**,933,**,54,**,"35,732"
+,Montana/c ,,"3,782","1,357",124,"1,020",**,474,**,**,321,45,19,422
+,Nevada,,"7,296","4,360",**,**,~,168,**,"2,697",~,71,~,0
+,New Mexico/c,,"3,042",**,**,**,**,**,**,**,**,**,**,"3,042"
+,Oregon ,,"17,224","10,579",659,"4,542",0,624,0,232,17,179,0,392
+,Utah,,"5,130","2,343",344,409,0,52,2,"1,284",453,50,193,0
+,Washington/c,,"67,152","17,512",623,279,**,979,782,"6,524",17,158,"13,869","26,409"
+,Wyoming,,"2,383","1,529",95,467,0,123,0,0,154,15,0,0
+"Note:  Based on repored data only. For imputed exits from probation, see table 2.",,,,,,,,,,,,,,
+**Not known.,,,,,,,,,,,,,,
+~Not applicable.,,,,,,,,,,,,,,
+"a/Includes probationers released from supervision who failed to meet all conditions of supervision, including some with only financial conditions remaining whose case may have been turned over to a business office, and other types of unsatisfactory exits; includes some early terminations and expirations of sentence.",,,,,,,,,,,,,,
+"b/Includes probationers released from supervision because they were deported, released through a legislative mandate, had their sentence dismissed or overturned by the court through an appeal, had their sentence close administratively or deferred, and other types of exits.",,,,,,,,,,,,,,
+c/Some or all detailed data are estimated for type of exit.,,,,,,,,,,,,,,
+d/Data represent state probation exits only. Data are not available for county probationers.,,,,,,,,,,,,,,
+"e/The state agency did not provide data. Two localities reported 1,998 exits from probation during 2007. See Methodology.",,,,,,,,,,,,,,

@@ -1,0 +1,42 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: ppus07st05.csv,,,,,,,
+"Table 5. Characteristics of adults on parole, 1995, 2000, and 2007",,,,,,,
+"Report title: Probation and Parole in the United States, 2007 - Statistical Tables  NCJ 224707",,,,,,,
+Data source: Annual Parole Survey ,,,,,,,
+"Author(s): Lauren E. Glaze, Thomas P. Bonczar, and Matthew S. Cooper ",,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,
+Date of version: 08/10/2009,,,,,,,
+
+"Table 5. Characteristics of adults on parole, 1995, 2000, and 2007",,,,,,,
+,,1995,,2000,,2007,
+,Total,100,%,100,%,100,%
+Gender,,,,,,,
+,Male,90,%,88,%,88,%
+,Female,10,,12,,12, 
+Race,,,,,,,
+,White*,34,%,38,%,41,%
+,Black*,45,,40,,38, 
+,Hispanic or Latino,21,,21,,19,
+,American Indian/Alaska Native*,1,,1,,1,
+,Asian/Native Hawaiian/other Pacific Islander*,--,,--,,1,
+,Two or more races*,...,,...,,--,
+Status of supervision,,,,,,,
+,Active ,78,%,83,%,85,%
+,Inactive ,11,,4,,4, 
+,Absconder,6,,7,,6,
+,Supervised out of state,4,,5,,4, 
+,Financial conditions remaining,...,,...,,--,
+,Other,--,,1,,2, 
+Sentence length,,,,,,,
+,Less than 1 year,6,%,3,%,5,%
+,1 year or more,94,,97,,95,
+Type of offense,,,,,,,
+,Violent,...,,...,,26,%
+,Property,...,,...,,25,
+,Drug,...,,...,,37,
+,Public order,...,,...,,7,
+,Other,...,,...,,5,
+Note: Each characteristic includes persons of unknown type. Detail may not sum to total because of rounding.,,,,,,,
+--Less than 0.5%. ,,,,,,,
+...Not available.,,,,,,,
+*Excludes persons of Hispanic origin.,,,,,,,

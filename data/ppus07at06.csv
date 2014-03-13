@@ -1,0 +1,75 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: ppus07at06.csv,,,,,,,
+"Appendix table 6. Adults on probation, by type of offense, 2007",,,,,,,
+Data source: 2007 Annual Probation Survey,,,,,,,
+Author: Lauren E. Glaze and Thomas P. Bonczar,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,
+Date of version: 02/23/09,,,,,,,
+
+"Appendix table 6. Adults on probation, by type of offense, 2007",,,,,,,
+,,,,Type of offense,,,
+Region and jurisdiction,,,"Probation population, 12/31/2007",Felony,Misdemeanor,Other/a,Unknown or not reported
+,,U.S. total/b,"4,293,163","1,479,166","1,593,989","82,390","1,137,618"
+,Federal,,"23,450","16,954","4,041","2,450",5
+,State/b,,"4,269,713","1,462,212","1,589,948","79,940","1,137,613"
+Northeast,,,"701,951","207,976","231,195","22,820","239,960"
+,Connecticut ,,"57,493",**,**,**,"57,493"
+,Maine,,"7,853","5,428","2,403",**,22
+,Massachusetts ,,"175,419",**,**,**,"175,419"
+,New Hampshire,,"4,650",**,**,**,"4,650"
+,New Jersey/c,,"126,390","64,735","46,877","14,778",0
+,New York ,,"119,963","61,306","56,377",148,"2,132"
+,Pennsylvania,,"176,987","56,031","113,996","6,812",148
+,Rhode Island,,"26,137","17,956","7,098","1,082",1
+,Vermont/c,,"7,059","2,520","4,444",~,95
+Midwest,,,"1,012,378","200,365","413,270","3,034","395,709"
+,Illinois,,"142,790",**,**,**,"142,790"
+,Indiana ,,"126,562",**,**,**,"126,562"
+,Iowa ,,"22,776","9,033","13,549",194,0
+,Kansas ,,"16,131","3,745","12,386",0,0
+,Michigan/c,,"182,706","1,838","99,068",639,"81,161"
+,Minnesota ,,"127,797","45,633","82,164",0,0
+,Missouri,,"56,240","52,884","1,522","1,199",635
+,Nebraska ,,"18,910","4,908","14,002",0,0
+,North Dakota,,"4,468","3,195","1,174",99,0
+,Ohio/c,,"254,898","49,216","160,413",708,"44,561"
+,South Dakota,,"5,870","4,247","1,623",**,0
+,Wisconsin ,,"53,230","25,666","27,369",195,0
+South/b,,,"1,750,300","884,020","745,347","30,345","90,588"
+,Alabama,,"51,745","4,382","5,287",**,"42,076"
+,Arkansas ,,"31,676","29,586","1,698",0,392
+,Delaware ,,"16,696","4,811","10,821",22,"1,042"
+,District of Columbia,,"6,485","2,334","1,697",390,"2,064"
+,Florida/c ,,"274,079","176,866","85,058","1,552","10,603"
+,Georgia,,"435,361","149,837","285,524",0,0
+,Kentucky/c,,"42,510","20,553","21,957",0,0
+,Louisiana ,,"39,006","38,129",877,0,0
+,Maryland ,,"98,470","28,229","49,742","20,499",0
+,Mississippi ,,"21,623","21,623",~,0,0
+,North Carolina ,,"111,446","38,055","72,870",0,521,,
+,Oklahoma/d,,**,**,**,**,**,,>>
+,South Carolina ,,"42,721","25,385","9,454","7,882",0,,
+,Tennessee,,"56,179","45,719","10,460",0,0,,
+,Texas ,,"434,309","246,557","187,752",0,0,,
+,Virginia,,"51,954","51,954",0,0,0,,
+,West Virginia ,,"7,890",**,**,**,"7,890",,
+West,,,"805,084","169,851","200,136","23,741","411,356",,
+,Alaska ,,"6,416","6,416",~,0,0,,
+,Arizona,,"76,830","46,920","6,993","19,682","3,235",,
+,California ,,"353,969",**,**,**,"353,969",,
+,Colorado/c ,,"77,635","13,522","54,924",993,"8,196",,
+,Hawaii/c,,"19,426","11,442","5,012","2,972",0,,
+,Idaho ,,"48,663","13,353","35,310",0,0,,
+,Montana,,"9,106","8,453",486,0,167,,
+,Nevada/c ,,"13,461","9,115","4,346",0,0,,
+,New Mexico/c ,,"20,774",**,**,**,"20,774"
+,Oregon ,,"43,732","28,700","13,225",0,"1,807"
+,Utah ,,"10,829","8,350","2,385",94,0
+,Washington/c ,,"118,885","20,443","75,234",**,"23,208"
+,Wyoming ,,"5,358","3,137","2,221",0,0
+**Not known.,,,,,,,
+~Not applicable.,,,,,,,
+"a/Includes probationers under supervision for a petty offense, a city ordinance violation, a DWI offense, a domestic violence offense, and other types of offenses.",,,,,,,
+"b/Includes an estimated 26,000 probationers under the supervision of Oklahoma's state agency on December 31, 2007, and 2,150 probationers under the supervision of two localities in Oklahoma on December 31, 2007. All 2,150 probationers reported by the localities are under supervision for a misdemeanor.",,,,,,,
+c/Some or all detailed data are estimated for type of offense.,,,,,,,
+"d/The state agency did not provide data. An estimated 26,000 probationers were under the supervision of Oklahoma's state agencey on December 31, 2007. Two localities in Oklahoma reported 2,150 probationers under their supervision on December 31, 2007 and all of them are under supervision for a misdemeanor.",,,,,,,

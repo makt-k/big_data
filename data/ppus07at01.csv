@@ -1,0 +1,80 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: ppus07at01.csv,,,,,,,,,,,
+"Appendix table 1. Adults on community supervision, 2007",,,,,,,,,,,
+Data source: 2007 Annual Probation Survey; 2007 Annual Parole Survey,,,,,,,,,,,
+"Author: Lauren E. Glaze, Thomas P. Bonczar, and Matthew S. Cooper ",,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,,,,,
+Date of version: 08/10/2009,,,,,,,,,,,
+
+"Appendix table 1. Adults on community supervision, 2007",,,,,,,,,,,
+,,,,2007,,,,,,,
+,,,,Entries,,Exits,,,,,
+Region and jurisdiction,,,"Community supervision population, 1/1/2007",Reported,Imputed/a,Reported,Imputed/a ,"Community supervision population, 12/31/2007/b","Percent change, 2007",,"Number on community supervision per 100,000 adult residents, 12/31/2007"
+,,U.S. total/c,"5,015,236","2,722,249","2,918,400","2,637,643","2,816,600","5,119,260",2.1,%,"2,234"
+,Federal,,"113,458","54,892","54,892","52,227","52,227","116,123",2.3,%,51
+,State/c,,"4,901,778","2,667,357","2,863,500","2,585,416","2,764,400","5,003,137",2.1,,"2,183"
+Northeast,,,"853,300","274,627","355,900","276,486","352,000","857,239",0.5,%,"2,023"
+,Connecticut/d,,"56,881","31,000","31,000","28,211","28,211","59,670",4.9,,"2,217"
+,Maine,,"7,950","3,627","3,627","3,692","3,692","7,885",-0.8,,757
+,Massachusetts/d,,"175,818","98,952","98,952","96,142","96,142","178,628",1.6,,"3,548"
+,New Hampshire/d,,"6,211","3,789","3,789","3,697","3,697","6,303",1.5,,616
+,New Jersey,,"147,563","49,728","49,728","55,858","55,858","141,433",-4.2,,"2,127"
+,New York,,"175,360","62,419","62,419","64,147","64,147","173,632",-1,,"1,163"
+,Pennsylvania/e,,"248,570","13,966","95,300","13,240","88,800","255,094",2.6,,"2,636"
+,Rhode Island/d,,"26,349","6,262","6,262","6,012","6,012","26,599",0.9,,"3,223"
+,Vermont/d,,"8,598","4,884","4,884","5,487","5,487","7,995",-7,,"1,626"
+Midwest,,,"1,130,413","669,022","740,700","649,236","719,800","1,150,453",1.8,%,"2,282"
+,Illinois/d,,"175,917","92,685","92,685","90,726","90,726","177,876",1.1,,"1,833"
+,Indiana/d,,"136,860","105,266","105,266","105,202","105,202","136,924",0,,"2,863"
+,Iowa/d,,"26,200","18,424","18,424","18,302","18,302","26,322",0.5,,"1,151"
+,Kansas,,"20,404","25,362","25,362","24,793","24,793","20,973",2.8,,"1,003"
+,"Michigan/d,e",,"199,510","94,195","145,500","90,668","140,400","203,837",2.2,,"2,668"
+,Minnesota,,"131,061","85,446","85,446","83,966","83,966","132,541",1.1,,"3,346"
+,Missouri,,"73,913","40,047","40,047","37,871","37,871","76,089",2.9,,"1,699"
+,Nebraska,,"19,528","15,911","15,911","15,729","15,729","19,710",0.9,,"1,477"
+,North Dakota,,"4,692","3,779","3,779","3,661","3,661","4,810",2.5,,964
+,"Ohio/d,e",,"262,115","149,801","170,100","138,897","159,700","272,473",4,,"3,119"
+,South Dakota,,"8,428","5,543","5,543","5,289","5,289","8,682",3,,"1,438"
+,Wisconsin,,"71,785","32,563","32,563","34,132","34,132","70,216",-2.2,,"1,632"
+South/c,,,"1,957,973","1,067,801","1,095,100","1,038,317","1,061,100","1,993,812",1.8,%,"2,382"
+,Alabama/d,,"53,875","22,565","22,565","16,905","16,905","59,535",10.5,,"1,689"
+,Arkansas,,"49,223","18,450","18,450","16,609","16,609","51,064",3.7,,"2,380"
+,Delaware,,"17,502","15,700","15,700","15,971","15,971","17,231",-1.5,,"2,594"
+,District of Columbia,,"12,011","7,472","7,472","7,429","7,429","12,054",0.4,,"2,531"
+,"Florida/d,e",,"277,032","243,218","250,000","241,063","246,900","278,733",0.6,,"1,950"
+,"Georgia/d,f",,"455,394","293,187","293,187","290,109","290,109","458,472",0.7,,"6,470"
+,"Kentucky/d,e",,"48,151","18,155","26,500","14,555","19,500","55,251",14.7,,"1,698"
+,Louisiana,,"61,977","28,539","28,539","27,425","27,425","63,091",1.8,,"1,953"
+,Maryland/d,,"108,451","43,908","43,908","40,033","40,033","112,326",3.6,,"2,625"
+,Mississippi,,"26,006","10,794","10,794","13,162","13,162","23,638",-9.1,,"1,095"
+,North Carolina/d,,"113,655","69,984","69,984","68,882","68,882","114,757",1,,"1,660"
+,"Oklahoma/d,e,g",,**,**,"14,800",**,"14,000",**,:,,:
+,South Carolina,,"46,050","14,567","14,567","15,463","15,463","45,154",-1.9,,"1,335"
+,Tennessee,,"61,627","28,254","28,254","26,498","26,498","66,675",8.2,,"1,412"
+,Texas/d,,"532,020","216,845","216,845","212,808","212,808","536,057",0.8,,"3,067"
+,Virginia/d,,"55,345","30,284","30,284","26,825","26,825","58,804",6.2,,993
+,WestVirginia/e,,"9,191","3,094","3,100","2,582","2,600","9,720",5.8,,681
+West ,,,"960,092","655,907","671,900","621,377","631,400","1,001,633",4.3,%,"1,901"
+,Alaska,,"7,638","1,924","1,924","1,602","1,602","7,960",4.2,,"1,575"
+,Arizona/d,,"79,728","44,214","44,214","40,305","40,305","83,637",4.9,,"1,771"
+,California/d,,"465,087","373,715","373,715","362,156","362,156","477,733",2.7,,"1,747"
+,"Colorado/d,e",,"72,583","57,082","57,600","40,905","41,500","88,721",22.2,,"2,393"
+,Hawaii/d,,"20,906","7,216","7,216","6,586","6,586","21,536",3,,"2,144"
+,Idaho/d,,"51,341","41,346","41,346","40,910","40,910","51,777",0.8,,"4,687"
+,Montana/d,,"9,607","4,894","4,894","4,429","4,429","10,072",4.8,,"1,353"
+,Nevada,,"17,032","11,202","11,202","11,120","11,120","17,114",0.5,,886
+,"New Mexico/d,e",,"21,395","5,497","9,600","5,045","6,700","24,301",13.6,,"1,637"
+,Oregon,,"66,019","26,178","26,178","25,807","25,807","66,390",0.6,,"2,284"
+,Utah,,"13,759","8,066","8,066","7,399","7,399","14,426",4.8,,779
+,"Washington/d,e",,"129,098","71,749","83,100","72,454","80,300","131,902",2.2,,"2,651"
+,Wyoming,,"5,899","2,824","2,824","2,659","2,659","6,064",2.8,,"1,510"
+"Note: ""Community supervision"" is defined as adults sentenced to a period of supervision in the community, either on probation or parole. Because of nonresponse or incomplete data, the community supervision population for some jurisdictions on December 31, 2007, does not equal the population on January 1, plus entries, minus exits. Rates were computed using the estimated adult resident population in each state on January 1, 2008. ",,,,,,,,,,,
+**Not known.,,,,,,,,,,,
+:Not calculated.,,,,,,,,,,,
+a/Reflects reported data except for jurisdictions in which data were not available. Details may not sum to totals because of rounding. ,,,,,,,,,,,
+"b/A small number of offenders had multiple community supervision statuses. An estimated 3,200 probationers were also under the jurisdiction of a parole agency on December 31, 2007, and an estimated 3,600 parolees were also under the jurisdiction of a probation agency on December 31, 2007. ",,,,,,,,,,,
+"c/Includes an estimated 29,100 persons on community supervision in Oklahoma on January 1 and December 31, 2007, because the state agency did not provide data. See Methodology. Also includes data reported by two local probation agencies in Oklahoma; 1,363 probationers under supervision on January 1, an estimated 2,785 probationers who entered supervision, an estimated 1,998 probationers who exited supervision, and 2,150 probationers under supervision on December 31, 2007.",,,,,,,,,,,
+d/Some or all detailed data are estimated.,,,,,,,,,,,
+e/Data for entries and exits are estimated for non-reporting agencies. See Methodology.,,,,,,,,,,,
+f/Probation counts include private agency cases and may overstate the number of adults on probation.,,,,,,,,,,,
+"g/Oklahoma's state parole and probation agency did not provide data for 2007. Two localities reported 1,363 probationers under supervision on January 1, an estimated 2,785 probationers who entered supervision, and an estimated 1,998 probationers who exited supervision during 2007.",,,,,,,,,,,

@@ -1,0 +1,80 @@
+Bureau of Justice Statistics,,,,,,,,
+Filename: ppus07at08.csv,,,,,,,,
+"Appendix table 8. Adults entering parole, by type of sentence, 2007",,,,,,,,
+Data source: 2007 Annual Parole Survey,,,,,,,,
+"Author: Lauren E. Glaze, Thomas P. Bonczar, Matthew S. Cooper",,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,,
+Date of version: 08/10/2009,,,,,,,,
+
+"Appendix table 8. Adults entering parole, by type of sentence, 2007",,,,,,,,
+,,,"Number of adults entering parole, 2007",,,,,
+Region and jurisdiction,,,Total reported,Discretionary/a,Mandatory/b,Reinstatement/c,Other/d,Unknown or not reported
+,,U.S. total,"538,916","152,043","272,494","40,888","56,186","17,305"
+,Federal,,"43,077","1,398",139,425,"41,115",0
+,State,,"495,839","150,645","272,355","40,463","15,071","17,305"
+Northeast,,,"55,405","37,254","14,660","1,072","2,419",0
+,Connecticut/e,,"2,319","1,868",451,**,0,0
+,Maine ,,2,1,0,1,0,0
+,Massachusetts/e,,"4,952","4,702",0,250,0,0
+,New Hampshire ,,709,709,0,0,0,0
+,New Jersey ,,"9,505","7,299","1,058",715,433,0
+,New York,,"25,467","10,361","13,151",0,"1,955",0
+,Pennsylvania/f,,"11,432","11,432",0,0,0,0
+,Rhode Island ,,515,515,**,**,**,0
+,Vermont/e,,504,367,0,106,31,0
+Midwest,,,"104,056","30,621","55,362","2,466","3,209","12,398"
+,Illinois,,"32,951",25,"31,467",241,692,526
+,Indiana,,"9,217",**,**,**,**,"9,217"
+,Iowa/e,,"2,500",**,**,**,**,"2,500"
+,Kansas,,"5,278","3,366",15,106,"1,636",155
+,Michigan ,,"13,173","12,429",684,60,0,0
+,Minnesota ,,"5,715",0,"5,715",0,0,0
+,Missouri,,"14,114","10,521","1,142","1,728",723,0
+,Nebraska ,,"1,015","1,015",0,**,0,0
+,North Dakota ,,784,784,0,0,0,0
+,Ohio ,,"10,007","1,382","8,319",306,0,0
+,South Dakota,,"1,845",629,"1,109",25,82,0
+,Wisconsin,,"7,457",470,"6,911",0,76,0
+South,,,"106,989","68,046","32,932",668,"2,513","2,830"
+,Alabama,,"2,464",**,**,**,**,"2,464"
+,Arkansas,,"9,082","8,750",**,**,332,0
+,Delaware ,,366,**,**,**,**,366
+,District of Columbia,,"2,468",909,"1,559",0,0,0
+,Florida,,"7,036",26,"6,991",10,9,0
+,Georgia,,"11,935","11,935",0,0,0,0
+,Kentucky,,"5,945","5,595",49,8,293,0
+,Louisiana,,"13,652","1,332","12,119",201,0,0
+,Maryland,,"7,122","2,226","4,896",0,0,0
+,Mississippi ,,"1,021",917,0,104,0,0
+,North Carolina/e,,"3,552",995,"2,557",0,0,0
+,Oklahoma/g,,/,/,/,/,/,/
+,South Carolina ,,599,599,0,0,0,0
+,Tennessee,,"4,568","4,318",8,229,13,0
+,Texas/e,,"33,897","28,781","3,237",115,"1,764",0
+,Virginia,,"1,845",226,"1,516",1,102,0
+,West Virginia ,,"1,437","1,437",0,0,0,0
+West,,,"229,389","14,724","169,401","36,257","6,930","2,077"
+,Alaska,,709,57,646,6,0,0
+,Arizona/e,,"14,862",50,"12,370",0,"2,442",0
+,California,,"178,161",13,"137,990","35,841","4,317",0
+,Colorado,,"9,089","5,570","3,348",0,171,0
+,Hawaii ,,694,686,0,8,0,0
+,Idaho,,"1,689","1,407",~,282,~,0
+,Montana,,769,769,0,0,0,0
+,Nevada ,,"3,653","2,275","1,313",65,0,0
+,New Mexico,,"2,013",**,**,**,**,"2,013"
+,Oregon,,"9,210","1,092","8,044",10,0,64
+,Utah ,,"2,524","2,486",0,38,0,0
+,Washington,,"5,708",18,"5,690",0,0,0
+,Wyoming ,,308,301,0,7,0,0
+"Note:  Based on repored data only.  For imputed entries to parole, see table 3.",,,,,,,,
+** Not known.,,,,,,,,
+/ Not reported.,,,,,,,,
+~ Not applicable.,,,,,,,,
+a/Discretionary parole entries are persons entering because of a parole board decision.,,,,,,,,
+"b/Mandatory parole entries are persons whose releases from prison were not decided by a parole board. Includes those entering because of determinate sentencing statutes, good-time provisions, or emergency releases.",,,,,,,,
+c/Reinstatement entries are persons returned to parole after serving time in a prison because of a parole violation.,,,,,,,,
+"d/Includes parolees who were: sentenced by a judge to a fixed period of incarceration based on a determinate statute immediately followed by a period of supervised released, transferred from another state, released temporarily to parole, released from a boot camp operated by the Department of Corrections, released (from prison) through a conditional medical or mental health release to parole, absconders that were returned to parole supervision, on pre-trial supervision, sentenced to community supervision for life because of a sex offense and others, placed under supervision due to a suspended sentence, and others.",,,,,,,,
+e/Some or all detailed data are estimated for entries.,,,,,,,,
+f/Data represent state parolee entries only. Data are not available for county parolees.,,,,,,,,
+"g/No data provided. An estimated 1,000 adults entered parole supervision in Oklahoma during 2007. See Methodology. ",,,,,,,,

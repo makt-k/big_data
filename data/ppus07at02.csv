@@ -1,0 +1,76 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: ppus07at02.csv,,,,,,,
+"Appendix table 2. Adults entering probation, by type of sentence, 2007",,,,,,,
+Data source: 2007 Annual Probation Survey,,,,,,,
+Author: Lauren E. Glaze and Thomas P. Bonczar,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,
+Date of version: 02/23/09,,,,,,,
+
+"Appendix table 2. Adults entering probation, by type of sentence, 2007",,,,,,,
+Region and jurisdiction,,,"Number of adults entering probation, 2007",,,,
+,,,Total reported,Probation without incarceration,Probation with incarceration,Other/a,Unknown or not reported
+,,U.S. total,"2,183,333","620,840","207,392","39,955","1,315,146"
+,Federal,,"11,815","11,809",6,0,0
+,State,,"2,171,518","609,031","207,386","39,955","1,315,146"
+Northeast,,,"219,222","66,753","11,966",430,"140,073"
+,Connecticut/b,,"28,681","22,945","5,736",0,0
+,Maine ,,"3,625","2,707",676,139,103
+,Massachusetts ,,"94,000",**,**,**,"94,000"
+,New Hampshire/b,,"3,080","2,666",414,0,0
+,New Jersey  ,,"40,223",**,**,**,"40,223"
+,New York ,,"36,952","32,188","4,764",0,0
+,Pennsylvania/c,,"2,534","2,534",0,0,0
+,Rhode Island/b,,"5,747",**,**,**,"5,747"
+,Vermont/b,,"4,380","3,713",376,291,0
+Midwest,,,"564,966","119,371","106,328","13,681","325,586"
+,Illinois/b ,,"59,734",**,**,**,"59,734"
+,Indiana,,"96,049","3,971","84,096","7,982",0
+,Iowa ,,"15,924",**,**,**,"15,924"
+,Kansas ,,"20,084",**,**,**,"20,084"
+,Michigan/b,,"81,022","22,146","7,466",255,"51,155"
+,Minnesota ,,"79,731",**,**,**,"79,731"
+,Missouri,,"25,933","22,756",**,"3,097",80
+,Nebraska ,,"14,896","10,627","4,269",0,0
+,North Dakota ,,"2,995","2,995",0,0,0
+,Ohio/b,,"139,794","31,770","10,497","2,347","95,180"
+,South Dakota ,,"3,698",**,**,**,"3,698"
+,Wisconsin ,,"25,106","25,106",~,0,0
+South ,,,"960,812","359,723","58,420","14,642","528,027"
+,Alabama,,"20,101","4,057","14,784",**,"1,260"
+,Arkansas,,"9,368","8,262",326,780,0
+,Delaware ,,"15,334",**,**,**,"15,334"
+,District of Columbia,,"5,004","4,300",704,0,0
+,Florida/b,,"236,182","169,586","11,338","1,358","53,900"
+,Georgia ,,"281,252","32,681","13,215","1,091","234,265"
+,Kentucky,,"12,210","11,123",231,856,0
+,Louisiana,,"14,887","13,554",853,480,0
+,Maryland/b,,"36,786",**,**,**,"36,786"
+,Mississippi ,,"9,773","2,460","7,313",0,0
+,North Carolina,,"66,432","66,394",38,0,0
+,Oklahoma/d,,"2,785",908,**,**,"1,877"
+,South Carolina ,,"13,968","12,241","1,727",0,0
+,Tennessee,,"23,686","16,530","7,156",0,0
+,Texas ,,"182,948",**,**,0,"182,948"
+,Virginia/b,,"28,439","17,627",735,"10,077",0
+,West Virginia,,"1,657",**,**,**,"1,657"
+West,,,"426,518","63,184","30,672","11,202","321,460"
+,Alaska ,,"1,215",**,**,**,"1,215"
+,Arizona/b,,"29,352","17,392","10,660",**,"1,300"
+,California/b,,"195,554",**,**,**,"195,554"
+,Colorado/b,,"47,993","25,978","2,893",901,"18,221"
+,Hawaii/b ,,"6,522",**,**,**,"6,522"
+,Idaho/b,,"39,657","2,702","1,612",33,"35,310"
+,Montana/b,,"4,125","1,716","1,718",312,379
+,Nevada,,"7,549",**,**,**,"7,549"
+,New Mexico/b,,"3,484",**,**,**,"3,484"
+,Oregon,,"16,968","8,036","8,102",0,830
+,Utah ,,"5,542","2,494","3,048",0,0
+,Washington/b,,"66,041","2,539","2,450","9,956","51,096"
+,Wyoming ,,"2,516","2,327",189,0,0
+"Note:  Based on repored data only. For imputed entries to probation, see table 2.",,,,,,,
+**Not known.,,,,,,,
+~Not applicable.,,,,,,,
+"a/Includes probationers who entered supervision through a deferred sentence, pre-trial supervision, after a bench warrant was served, a reinstatement of their original sentence, placement in a drug court program, and other types of entries.",,,,,,,
+b/Some or all detailed data are estimated for entries.,,,,,,,
+c/Data respresent state probation entries only. Data are not available for county probationers.,,,,,,,
+"d/The state agency did not provide data. Two localities reported 2,785 entries to probation during 2007. See Methodology.",,,,,,,

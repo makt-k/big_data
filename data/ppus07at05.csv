@@ -1,0 +1,78 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: ppus07at05.csv,,,,,,,,,,,
+"Appendix table 5. Adults on probation, by race/ethnic origin, 2007",,,,,,,,,,,
+Data source: 2007 Annual Probation Survey,,,,,,,,,,,
+Author: Lauren E. Glaze and Thomas P. Bonczar,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,,,,,
+Date of version: 02/23/09,,,,,,,,,,,
+
+"Appendix table 5. Adults on probation, by race/ethnic origin, 2007",,,,,,,,,,,
+,,,,Race/ethnic origin,,,,,,,
+Region and jurisdiction,,,"Probation population, 12/31/2007",White,Black/African American,Hispanic or Latino,American Indian/Alaska Native,Asian,Native Hawaiian/Other Pacific Islander,Two or more races,Unknown or not reported
+,,U.S. total/a,"4,293,163","1,450,333","761,036","352,376","23,896","19,483","6,773","12,069","1,667,197"
+,Federal,,"23,450","11,377","6,275","3,550",560,886,140,0,662
+,State/a,,"4,269,713","1,438,956","754,761","348,826","23,336","18,597","6,633","12,069","1,666,535"
+Northeast,,,"701,951","264,093","163,329","67,761","1,011","3,752",11,216,"201,778"
+,Connecticut/b,,"57,493","27,734","15,796","12,258",100,426,0,24,"1,155"
+,Maine,,"7,853","7,094",268,**,88,29,**,**,374
+,Massachusetts ,,"175,419",**,**,**,**,**,**,**,"175,419"
+,New Hampshire/b,,"4,650","3,192",144,"1,064",25,2,**,**,223
+,New Jersey/b,,"126,390","45,500","50,556","15,167",0,"1,264",0,~,"13,903"
+,New York ,,"119,963","54,793","35,635","23,159",482,"1,036",0,0,"4,858"
+,Pennsylvania ,,"176,987","104,581","55,654","11,207",148,693,11,192,"4,501"
+,"Rhode Island/c,d ",,"26,137","14,825","5,056","4,906",129,270,**,**,951
+,"Vermont/b,e",,"7,059","6,374",220,**,39,32,**,**,394
+Midwest,,,"1,012,378","295,376","88,880","11,753","8,459","4,218",5,"11,457","592,230"
+,Illinois,,"142,790",**,**,**,**,**,**,**,"142,790"
+,Indiana ,,"126,562",**,**,**,**,**,**,**,"126,562"
+,Iowa ,,"22,776","18,246","2,685","1,214",240,239,**,**,152
+,Kansas ,,"16,131",**,**,**,**,**,**,**,"16,131"
+,Michigan/b,,"182,706","20,853","7,114","1,045",194,182,5,34,"153,279"
+,Minnesota/f,,"127,797","91,698","17,324",**,"4,868","2,645",**,"11,262",0
+,Missouri ,,"56,240","40,208","14,380",718,119,144,**,**,671
+,Nebraska ,,"18,910","13,476","2,183","2,656",484,111,0,0,0
+,North Dakota ,,"4,468","3,409",187,161,693,18,0,0,0
+,Ohio/b,,"254,898","71,848","33,432","2,626",58,243,0,161,"146,530"
+,South Dakota ,,"5,870",**,**,**,**,**,**,**,"5,870"
+,Wisconsin/d,,"53,230","35,638","11,575","3,333","1,803",636,**,0,245
+South/a,,,"1,750,300","683,127","477,637","210,654","3,027","3,253",301,250,"372,051"
+,Alabama,,"51,745","23,842","21,287",933,56,68,**,**,"5,559"
+,Arkansas,,"31,676","20,213","9,944","1,275",87,60,0,0,97
+,Delaware ,,"16,696","8,593","7,093",950,12,35,**,**,13
+,District of Columbia,,"6,485",353,"5,701",352,3,30,4,0,42
+,Florida/b,,"274,079","136,038","68,044","33,728",413,"1,102",140,182,"34,432"
+,Georgia,,"435,361","72,431","71,358","4,256",295,235,**,**,"286,786"
+,Kentucky/b,,"42,510","28,023","9,896","4,242",19,55,**,68,207
+,Louisiana ,,"39,006","19,165","19,620",45,21,41,80,0,34
+,Maryland ,,"98,470","46,974","50,140",**,82,599,**,**,675
+,Mississippi ,,"21,623","9,119","11,924",183,26,55,0,0,316
+,North Carolina ,,"111,446","50,409","50,064","6,734","1,877",324,77,**,"1,961"
+,Oklahoma/g,,**,**,**,**,**,**,**,**,**
+,South Carolina ,,"42,721","19,881","21,913",707,48,49,0,~,123
+,Tennessee/b,,"56,179","32,242","20,557","2,704",61,595,0,0,20
+,Texas/b,,"434,309","190,668","84,605","154,545",**,**,**,**,"4,491"
+,Virginia/b,,"51,954","25,176","25,491",0,27,5,0,0,"1,255"
+,West Virginia ,,"7,890",**,**,**,**,**,**,**,"7,890"
+West,,,"805,084","196,360","24,915","58,658","10,839","7,374","6,316",146,"500,476"
+,Alaska/d,,"6,416","3,775",583,194,"1,500",267,**,0,97
+,Arizona,,"76,830","35,418","6,270","27,597","3,759",331,**,**,"3,455"
+,California ,,"353,969",**,**,**,**,**,**,**,"353,969"
+,Colorado/b,,"77,635","50,652","7,006","10,478",692,727,**,**,"8,080"
+,Hawaii/b,,"19,426","4,711",745,**,**,"3,912","6,127",**,"3,931"
+,Idaho ,,"48,663","10,409",206,"1,938",311,80,**,**,"35,719"
+,Montana,,"9,106","6,936",100,245,"1,088",21,**,31,685
+,Nevada ,,"13,461",**,**,**,**,**,**,**,"13,461"
+,New Mexico/b,,"20,774","4,534",773,"7,939","1,069",37,21,**,"6,401"
+,Oregon,,"43,732","34,952","2,467","5,025",593,475,**,**,220
+,Utah ,,"10,829","8,062",474,"1,002",298,83,149,0,761
+,Washington/b,,"118,885","32,531","6,163","3,746","1,279","1,427",12,115,"73,612"
+,Wyoming,,"5,358","4,380",128,494,250,14,7,0,85
+**Not known.,,,,,,,,,,,
+~Not applicable.,,,,,,,,,,,
+"a/Includes an estimated 26,000 probationers under the supervision of Oklahoma's state agency on December 31, 2007, and 2,150 probationers under the supervision of two localities in Oklahoma on December 31, 2007. Race/ethnic origin was unknown or not reported for all 2,150 probationers under the supervision of the localities. ",,,,,,,,,,,
+b/Some or all detailed data are estimated for race.,,,,,,,,,,,
+"c/Classifies Hispanic as a race rather than an ethnicity; therefore, it cannot be determined whether probationers who are Hispanic are also of another race. Additionally, those probationers who are of another race may also be Hispanic. ",,,,,,,,,,,
+d/“Asian” includes an unspecified number of probationers who are “Native Hawaiian/Other Pacific Islander” because “Native Hawaiian/Other Pacific Islander” could not be reported separately. ,,,,,,,,,,,
+"e/Does not collect ethnicity data; therefore, the number of Hispanic probatioenrs cannot be determined. Additionally, whether or not other racial categories include Hispanic probationers cannot be determined. ",,,,,,,,,,,
+"f/Classifies Hispanic as an ethnicity, not a race. There were 5,476 Hispanic probationers under supervision on December 31, 2007, but they are reported among all of the other racial categories.",,,,,,,,,,,
+"g/The state agency did not provide data. An estimated 26,000 probationers were under the supervision of Oklahoma's state agencey on December 31, 2007. Two localities in Oklahoma reported 2,150 probationers under their supervision on December 31, 2007 and race/ethnic origin was unknown or not reported for all 2,150 probationers.",,,,,,,,,,,

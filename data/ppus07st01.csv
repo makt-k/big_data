@@ -1,0 +1,26 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+Filename: ppus07st01.csv,,,,,,,,,,,,
+"Table 1. Number of persons under adult correctional supervision, 2000-07",,,,,,,,,,,,
+"Report title: Probation and Parole in the United States, 2007 - Statistical Tables  NCJ 224707",,,,,,,,,,,,
+"Data source(s): Annual Probation Survey, Annual Parole Survey, National Prisoner Statistics series, and Annual Survey of Jails ",,,,,,,,,,,,
+"Author(s): Lauren E. Glaze, Thomas P. Bonczar, and Matthew S. Cooper ",,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,
+Date of version: 08/10/2009,,,,,,,,,,,,
+
+"Table 1. Number of persons under adult correctional supervision, 2000-07",,,,,,,,,,,,
+Year,Total estimated correctional population/a,,Community supervision/b,,Incarcerated in prison or jail,,Percent of U.S. adult resident population on correctional supervision,,Percent of total correctional population on community supervision,,Percent of U.S. adult resident population on community supervision,
+2000,"6,445,100",,"4,550,100",,"1,937,500",,3.1,%,70.6,%,2.2,%
+2001,"6,581,700",,"4,664,100",,"1,961,200",,3.1,,70.9,,2.2,
+2002,"6,758,800",,"4,775,000",,"2,033,000",,3.1,,70.6,,2.2,
+2003/c,"6,924,500",,"4,889,900",,"2,081,600",,3.2,,70.6,,2.3,
+2004,"6,995,000",,"4,915,600",,"2,135,300",,3.2,,70.3,,2.2,
+2005,"7,051,900",,"4,947,400",,"2,195,900",,3.1,,70.2,,2.2
+2006,"7,182,300",,"5,015,200",,"2,259,000",,3.2,,69.8,,2.2
+2007/d,"7,329,900",,"5,119,300",,"2,293,200",,3.2,,69.8,,2.2
+"Percent change, 2006-07",2.1,%,2.1,%,1.5,%,,,,,
+"Average annual percent change, 2000-07",1.9,%,1.7,%,2.4,%,,,,,
+"Note:  Jail counts are for June 30, and prison counts are for December 31. Probation and parole counts for 2000-2006 are January 1 counts from the next reporting year because some agencies update their data. The 2007 probation and parole counts are for December 31. Jail and prison counts include inmates held in private facilities. Estimates were rounded to the nearest 100.  ",,,,,,,,,,,
+"a/Includes offenders on probation and parole. Because some offenders may have multiple statuses (i.e., held in a prison or jail but remain under the jurisdiction of a probation or parole authority) totals in 2000-04 exclude probationers held in jail or prison; totals in 2005-06 exclude probationers and parolees held in jail or prison; and the total in 2007 excludes probationers and parolees held in jail or prison, probationers who were also under parole supervision, and parolees who were also under probation supervision. For these reasons, details do not sum to total.",,,,,,,,,,,
+b/Totals include some offenders held in a prison or jail but who remained under the jurisdiction of a probation or parole agency. ,,,,,,,,,,,
+"c/Due to changes in reporting, total probation and parole counts include estimated counts for Massachusetts, Pennsylvania, and Washington based on reporting methods comparable to 2004.",,,,,,,,,,,
+"d/Oklahoma did not provide community supervision data for 2007; therefore, all data for Oklahoma were estimated. See Methodology.  Maine and Nevada did not provide prison data for 2007; therefore, all prison data for Maine and Nevada were estimated. See Prisoners in 2007, NCJ 224280.",,,,,,,,,,,

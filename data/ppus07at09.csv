@@ -1,0 +1,73 @@
+Bureau of Justice Statistics,,,,,,
+Filename: ppus07at09.csv,,,,,,
+"Appendix table 9. Adults on parole, by gender, 2007",,,,,,
+Data source: 2007 Annual Parole Survey,,,,,,
+"Author: Lauren E. Glaze, Thomas P. Bonczar, and Matthew S. Cooper ",,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,
+Date of version: 08/10/2009,,,,,,
+
+"Appendix table 9. Adults on parole, by gender, 2007",,,,,,
+,,,,Gender,,
+Region and jurisdiction,,,"Parole population, 12/31/2007",Male,Female,Unknown or not reported
+,,U.S. total/a,"826,097","722,056","100,436","3,605"
+,Federal ,,"92,673","78,017","14,642",14
+,State/a,,"733,424","644,039","85,794","3,591"
+Northeast,,,"155,288","134,888","20,308",92
+,Connecticut ,,"2,177","1,896",189,92
+,Maine ,,32,31,1,0
+,Massachusetts/b,,"3,209","2,940",269,0
+,New Hampshire/b,,"1,653","1,491",162,0
+,New Jersey ,,"15,043","13,998","1,045",0
+,New York ,,"53,669","49,860","3,809",0
+,Pennsylvania,,"78,107","63,474","14,633",0
+,Rhode Island ,,462,431,31,0
+,Vermont/b,,936,767,169,0
+Midwest,,,"138,075","123,135","14,920",20
+,Illinois/b,,"35,086","31,594","3,492",0
+,Indiana ,,"10,362","9,132","1,230",0
+,Iowa ,,"3,546","2,906",640,0
+,Kansas ,,"4,842","4,428",414,0
+,Michigan ,,"21,131","19,081","2,050",0
+,Minnesota ,,"4,744","4,364",380,0
+,Missouri,,"19,849","16,954","2,892",3
+,Nebraska ,,800,670,130,0
+,North Dakota ,,342,274,68,0
+,Ohio/b,,"17,575","16,064","1,511",0
+,South Dakota,,"2,812","2,310",485,17
+,Wisconsin ,,"16,986","15,358","1,628",0
+South/a,,,"243,512","212,991","27,421","3,100"
+,Alabama,,"7,790","7,006",784,0
+,Arkansas,,"19,388","16,852","2,536",0
+,Delaware ,,535,491,44,0
+,District of Columbia,,"5,569","5,124",445,0
+,Florida ,,"4,654","4,360",294,0
+,Georgia,,"23,111","20,498","2,613",0
+,Kentucky,,"12,741","10,547","2,194",0
+,Louisiana ,,"24,085","21,255","2,830",0
+,Maryland ,,"13,856","12,810","1,046",0
+,Mississippi,,"2,015","1,671",344,0
+,North Carolina ,,"3,311","3,119",192,0
+,Oklahoma,,/,/,/,/
+,South Carolina ,,"2,433","2,173",260,0
+,Tennessee ,,"10,496","9,210","1,286",0
+,Texas/b,,"101,748","91,036","10,712",0
+,Virginia/b,,"6,850","5,338","1,512",0
+,West Virginia ,,"1,830","1,501",329,0
+West,,,"196,549","173,025","23,145",379
+,Alaska ,,"1,544","1,464",80,0
+,Arizona,,"6,807","5,764","1,043",0
+,California ,,"123,764","110,301","13,463",0
+,Colorado ,,"11,086","9,461","1,625",0
+,Hawaii ,,"2,110","1,823",287,0
+,Idaho ,,"3,114","2,692",422,0
+,Montana ,,966,811,155,0
+,Nevada ,,"3,653","3,227",426,0
+,New Mexico,,"3,527","2,647",501,379
+,Oregon,,"22,658","19,698","2,960",0
+,Utah ,,"3,597","3,078",519,0
+,Washington,,"13,017","11,462","1,555",0
+,Wyoming ,,706,597,109,0
+** Not known.,,,,,,
+/ Not reported.,,,,,,
+"a/lncludes an estimated 3,100 parolees under supervision in Oklahoma on December 31, 2007. See Methodology.",,,,,,
+b/Some or all detailed data are estimated for gender.,,,,,,

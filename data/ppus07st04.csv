@@ -1,0 +1,53 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: ppus07st04.csv,,,,,,,
+"Table 4. Characteristics of adults on probation, 1995, 2000, and 2007",,,,,,,
+"Report title: Probation and Parole in the United States, 2007 - Statistical Tables  NCJ 224707",,,,,,,
+Data source: Annual Probation Survey ,,,,,,,
+Author(s): Lauren E. Glaze and Thomas P. Bonczar,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,
+Date of version: 12/09/2008,,,,,,,
+
+"Table 4. Characteristics of adults on probation, 1995, 2000, and 2007",,,,,,,
+,,1995,,2000,,2007,
+,Total ,100,%,100,%,100,%
+Gender,,,,,,,
+,Male,79,% ,78,%,77,%
+,Female,21, ,22,,23, 
+Race/Hispanic origin,,,,,,,
+,White/a,53,%,54,%,55,%
+,Black/a,31, ,31,,29,
+,Hispanic or Latino,14,,13,,13,
+,American Indian/Alaska Native/a,1, ,1,,1, 
+,Asian/Native Hawaiian/other Pacific Islander/a,--,,1,,1,
+,Two or more races/a,...,,...,,--,
+Status of probation,,,,,,,
+,Direct imposition,48,%,56,%,54,%
+,Split sentence,15, ,11,,9, 
+,Sentence suspended,26, ,25,,27, 
+,Imposition suspended,6,,7,,8, 
+,Other,4, ,1,,2, 
+Status of supervision,,,,,,,
+,Active ,79,% ,76,%,70,%
+,Residential/other treatment program,...,,...,,1,
+,Financial conditions remaining,...,,...,,2,
+,Inactive ,8, ,9,,7,
+,Absconder,9,,9,,9,
+,Supervised out of state,2, ,3,,3,
+,Warrant status,...,,...,,7, 
+,Other,2,,3,,2,
+Type of offense ,,,,,,, 
+,Felony,54,%,52,%,47,%
+,Misdemeanor,44,,46,,51,
+,Other infractions,2,,2,,3,
+Most serious offense,,,,,,,
+,Violent,...,,...,,17,%
+,Property,...,,...,,24,
+,Drug ,16,,24,,27,
+,Public-order/b,...,,24,,18,
+,Other/c,84,,52,,13,
+Note: Each characteristic includes persons of unknown type. Detail may not sum to total because of rounding.,,,,,,,
+--Less than 0.5%. 
+...Not available.
+a/Excludes persons of Hispanic origin.
+b/Includes driving while intoxicated and other traffic offenses only.
+"c/In 1995 and 2000, violent and property offenses were reported among other offenses. In 1995, public-order offenses were also reported among other offenses."

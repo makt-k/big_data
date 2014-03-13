@@ -1,0 +1,73 @@
+Bureau of Justice Statistics,,,,,,
+Filename: ppus07at04.csv,,,,,,
+"Appendix table 4. Adults on probation, by gender, 2007",,,,,,
+Data source: 2007 Annual Probation Survey,,,,,,
+Author: Lauren E. Glaze and Thomas P. Bonczar,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,
+Date of version: 02/23/09,,,,,,
+
+"Appendix table 4. Adults on probation, by gender, 2007",,,,,,
+,,,,Gender,,
+Region and jurisdiction,,,"Probation population, 12/31/2007",Male,Female,Not reported
+,,U.S. total/a,"4,293,163","2,282,672","699,230","1,311,261"
+,Federal ,,"23,450","14,804","8,256",390
+,State/a,,"4,269,713","2,267,868","690,974","1,310,871"
+Northeast,,,"701,951","559,732","141,284",935
+,Connecticut/b,,"57,493","45,557","11,926",10
+,Maine,,"7,853","6,440","1,413",0
+,Massachusetts/b,,"175,419","145,598","29,821",0
+,New Hampshire/b,,"4,650","3,596","1,054",0
+,New Jersey/b,,"126,390","99,848","26,542",0
+,New York ,,"119,963","96,028","23,010",925
+,Pennsylvania ,,"176,987","135,261","41,726",0
+,Rhode Island ,,"26,137","21,955","4,182",0
+,Vermont/b,,"7,059","5,449","1,610",0
+Midwest,,,"1,012,378","368,035","126,662","517,681"
+,Illinois,,"142,790",**,**,"142,790"
+,Indiana ,,"126,562",**,**,"126,562"
+,Iowa ,,"22,776","16,479","6,174",123
+,Kansas ,,"16,131",**,**,"16,131"
+,Michigan/b,,"182,706","44,977","16,852","120,877"
+,Minnesota ,,"127,797","98,427","29,370",0
+,Missouri ,,"56,240","41,493","14,112",635
+,Nebraska ,,"18,910","14,019","4,891",0
+,North Dakota ,,"4,468","3,222","1,246",0
+,Ohio/b,,"254,898","107,945","42,260","104,693"
+,South Dakota ,,"5,870",**,**,"5,870"
+,Wisconsin ,,"53,230","41,473","11,757",0
+South/a,,,"1,750,300","1,060,673","339,430","350,197"
+,Alabama,,"51,745","36,845","9,357","5,543"
+,Arkansas,,"31,676","22,054","9,622",0
+,Delaware ,,"16,696","12,898","3,797",1
+,District of Columbia,,"6,485","5,139","1,346",0
+,Florida/b,,"274,079","193,091","61,010","19,978"
+,Georgia,,"435,361","112,095","33,287","289,979"
+,Kentucky/b ,,"42,510","29,148","13,361",1
+,Louisiana ,,"39,006","29,528","9,478",0
+,Maryland ,,"98,470","80,249","18,221",0
+,Mississippi,,"21,623","16,848","4,775",0
+,North Carolina ,,"111,446","84,830","26,616",0
+,Oklahoma/c,,**,**,**,**
+,South Carolina ,,"42,721","34,091","8,630",0
+,Tennessee/b,,"56,179","42,588","13,591",0
+,Texas/b,,"434,309","319,984","114,325",0
+,Virginia/b,,"51,954","40,478","11,476",0
+,West Virginia,,"7,890",**,**,"7,890"
+West,,,"805,084","279,428","83,598","442,058"
+,Alaska ,,"6,416","5,220","1,196",0
+,Arizona/b,,"76,830","61,454","15,376",0
+,California ,,"353,969",**,**,"353,969"
+,Colorado/b,,"77,635","52,079","17,755","7,801"
+,Hawaii/b,,"19,426","14,748","4,678",0
+,Idaho ,,"48,663","9,730","3,623","35,310"
+,Montana,,"9,106","6,726","2,213",167
+,Nevada/b,,"13,461","9,961","3,500",0
+,New Mexico,,"20,774","11,165","3,773","5,836"
+,Oregon,,"43,732","33,710","10,022",0
+,Utah ,,"10,829","7,992","2,837",0
+,Washington/b,,"118,885","62,692","17,218","38,975"
+,Wyoming ,,"5,358","3,951","1,407",0
+**Not known.,,,,,,
+"a/Includes an estimated 26,000 probationers under the supervision of Oklahoma's state agency on December 31, 2007, and 2,150 probationers under the supervision of two localities in Oklahoma on December 31, 2007. Of those 2,150 probationers, 807 are male , 538 are female, and gender was not reported for the remaining 805 probationers.",,,,,,
+b/Some or all detailed data are estimated for gender.,,,,,,
+"c/The state agency did not provide data. An estimated 26,000 probationers were under the supervision of Oklahoma's state agencey on December 31, 2007. Two localities in Oklahoma reported 2,150 probationers under their supervision on December 31, 2007 and an estimated 807 are male and 538 are female, and gender was not reported for the remaining 805 probationers.",,,,,,

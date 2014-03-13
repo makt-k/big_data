@@ -1,0 +1,80 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: ppus07st03.csv,,,,,,,,,,,
+"Table 3. Adults on parole, 2007",,,,,,,,,,,
+"Report title: Probation and Parole in the United States, 2007 - Statistical Tables  NCJ 224707",,,,,,,,,,,
+Data source: Annual Parole Survey ,,,,,,,,,,,
+"Author(s): Lauren E. Glaze, Thomas P. Bonczar, and Matthew S. Cooper ",,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,
+Date of version: 08/10/2009,,,,,,,,,,,
+
+"Table 3. Adults on parole, 2007",,,,,,,,,,,
+,,,,2007,,,,,,,
+,,,,Entries,,Exits,,,,,
+Region and jurisdiction,,,"Parole population, 1/1/2007",Reported,Imputed/a,Reported,Imputed/a,"Parole population, 12/31/2007","Percent change, 2007",,"Number on parole per 100,000 adult residents, 12/31/2007"
+,,U.S. total/b,"799,875","538,916","554,500","514,962","529,200","826,097",3.3,%,360
+,Federal,,"88,993","43,077","43,077","39,397","39,397","92,673",4.1,%,40
+,State/b,,"710,882","495,839","511,400","475,565","489,800","733,424",3.2,,320
+Northeast,,,"152,744","55,405","70,000","54,210","67,500","155,288",1.7,%,367
+,Connecticut,,"2,567","2,319","2,319","2,709","2,709","2,177",-15.2,,81
+,Maine  ,,31,2,2,1,1,32,3.2,,3
+,Massachusetts/c,,"3,435","4,952","4,952","5,178","5,178","3,209",-6.6,,64
+,New Hampshire,,"1,621",709,709,677,677,"1,653",2,,162
+,New Jersey,,"14,405","9,505","9,505","8,867","8,867","15,043",4.4,,226
+,New York   ,,"53,001","25,467","25,467","24,799","24,799","53,669",1.3,,360
+,Pennsylvania/d,,"76,386","11,432","26,000","11,060","24,300","78,107",2.3,,807
+,Rhode Island ,,332,515,515,385,385,462,39.2,,56
+,"Vermont/c,e",,966,504,504,534,534,936,-3.1,,190
+Midwest,,,"131,638","104,056","104,056","97,619","97,619","138,075",4.9,%,274
+,Illinois,,"34,917","32,951","32,951","32,782","32,782","35,086",0.5,,362
+,Indiana,,"8,205","9,217","9,217","7,060","7,060","10,362",26.3,,217
+,Iowa,,"3,578","2,500","2,500","2,532","2,532","3,546",-0.9,,155
+,Kansas/e,,"4,886","5,278","5,278","5,322","5,322","4,842",-0.9,,232
+,Michigan  ,,"18,486","13,173","13,173","10,528","10,528","21,131",14.3,,277
+,Minnesota  ,,"4,445","5,715","5,715","5,416","5,416","4,744",6.7,,120
+,Missouri,,"18,815","14,114","14,114","13,080","13,080","19,849",5.5,,443
+,Nebraska,,797,"1,015","1,015","1,012","1,012",800,0.4,,60
+,North Dakota,,372,784,784,814,814,342,-8.1,,69
+,Ohio ,,"17,603","10,007","10,007","10,035","10,035","17,575",-0.2,,201
+,South Dakota,,"2,767","1,845","1,845","1,800","1,800","2,812",1.6,,466
+,Wisconsin,,"16,767","7,457","7,457","7,238","7,238","16,986",1.3,,395
+South/b,,,"238,484","106,989","108,000","101,793","102,800","243,512",2.1,%,291
+,"Alabama/c,f",,"7,508","2,464","2,464","2,182","2,182","7,790",3.8,,221
+,Arkansas,,"18,057","9,082","9,082","7,751","7,751","19,388",7.4,,904
+,Delaware,,544,366,366,375,375,535,-1.7,,81
+,District of Columbia,,"5,341","2,468","2,468","2,240","2,240","5,569",4.3,,"1,169"
+,Florida/c,,"4,790","7,036","7,036","7,172","7,172","4,654",-2.8,,33
+,Georgia,,"22,958","11,935","11,935","11,782","11,782","23,111",0.7,,326
+,Kentucky,,"11,755","5,945","5,945","4,959","4,959","12,741",8.4,,392
+,Louisiana,,"23,832","13,652","13,652","13,399","13,399","24,085",1.1,,746
+,Maryland ,,"14,351","7,122","7,122","7,617","7,617","13,856",-3.4,,324
+,Mississippi,,"1,899","1,021","1,021",905,905,"2,015",6.1,,93
+,North Carolina/c,,"3,236","3,552","3,552","3,477","3,477","3,311",2.3,,48
+,Oklahoma/c,,/,/,"1,000",/,"1,000",/,: ,,:
+,South Carolina  ,,"2,766",599,599,932,932,"2,433",-12,,72
+,Tennessee,,"9,570","4,568","4,568","3,474","3,474","10,496",9.7,,222
+,Texas/c,,"100,053","33,897","33,897","32,202","32,202","101,748",1.7,,582
+,Virginia/f,,"7,201","1,845","1,845","2,196","2,196","6,850",-4.9,,116
+,West Virginia  ,,"1,523","1,437","1,437","1,130","1,130","1,830",20.2,,128
+West,,,"188,016","229,389","229,389","221,943","221,943","196,549",4.5,%,373
+,Alaska/f,,"1,527",709,709,692,692,"1,544",1.1,,305
+,Arizona/c,,"6,463","14,862","14,862","14,518","14,518","6,807",5.3,,144
+,California/e,,"118,592","178,161","178,161","174,076","174,076","123,764",4.4,,453
+,Colorado,,"9,551","9,089","9,089","7,554","7,554","11,086",16.1,,299
+,Hawaii,,"2,308",694,694,892,892,"2,110",-8.6,,210
+,Idaho,,"2,732","1,689","1,689","1,307","1,307","3,114",14,,282
+,Montana,,844,769,769,647,647,966,14.5,,130
+,Nevada ,,"3,824","3,653","3,653","3,824","3,824","3,653",-4.5,,189
+,"New Mexico/c,e,f",,"3,517","2,013","2,013","2,003","2,003","3,527",0.3,,238
+,Oregon,,"22,031","9,210","9,210","8,583","8,583","22,658",2.8,,779
+,Utah  ,,"3,342","2,524","2,524","2,269","2,269","3,597",7.6,,194
+,Washington,,"12,611","5,708","5,708","5,302","5,302","13,017",3.2,,262
+,Wyoming,,674,308,308,276,276,706,4.7,,176
+"Note: Because of nonresponse or incomplete data, the parole population for some jurisdictions on December 31, 2007, does not equal the population on January 1, plus entries, minus exits. Rates were computed using the estimated adult resident population in each state on January 1, 2008.",,,,,,,,,,,
+/Not reported.,,,,,,,,,,,
+:Not calculated.,,,,,,,,,,,
+a/Reflects reported data except for jurisdictions in which data were not available. See Methodology. Details may not sum to totals because of rounding.,,,,,,,,,,,
+"b/Includes an estimated 3,100 parolees under supervision in Oklahoma on January 1 and December 31, 2007. See Methodology.",,,,,,,,,,,
+c/Some or all data were estimated.,,,,,,,,,,,
+"d/Data for entries and exits were estimated for nonreporting county agencies. See Methodology. The December 31, 2007, population includes 25,475 parolees under state parole supervision. Reported entries are parolees who entered state parole supervision through a discrectionary release from prison.",,,,,,,,,,,
+"e/Excludes parolees in one of the following categories: absconder, out of state, inactive, or only have financial conditions remaining.",,,,,,,,,,,
+"f/Due to a change in recordkeeping procedures, data are not comparable to previous reports.",,,,,,,,,,,

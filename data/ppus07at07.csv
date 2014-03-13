@@ -1,0 +1,74 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: ppus07at07.csv,,,,,,,,,,,
+"Appendix table 7. Adults on probation, by most serious offense, 2007",,,,,,,,,,,
+Data source: 2007 Annual Probation Survey,,,,,,,,,,,
+Author: Lauren E. Glaze and Thomas P. Bonczar,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765,,,,,,,,,,,
+Date of version: 02/23/09,,,,,,,,,,,
+
+"Appendix table 7. Adults on probation, by most serious offense, 2007",,,,,,,,,,,
+,,,,Most serious offense,,,,,,,
+Region and jurisdiction,,,"Probation population, 12/31/2007",Domestic violence,Other violent,Property ,Drug ,Driving while intoxicated or under influence,Other traffic ,Other,Unknown or not reported
+,,U.S. total/a,"4,293,163","66,843","315,971","545,559","593,544","331,710","82,195","301,612","2,055,729"
+,Federal ,,"23,450",1,575,"11,116","3,371","1,755",412,"6,177",43
+,State/a,,"4,269,713","66,842","315,396","534,443","590,173","329,955","81,783","295,435","2,055,686"
+Northeast,,,"701,951","10,959","51,174","88,288","107,601","33,986","9,920","44,949","355,074"
+,Connecticut/b,,"57,493","4,024","8,049","12,073","10,224","4,025","4,599","14,373",126
+,Maine,,"7,853","1,789",967,"2,008","1,317",665,425,657,25
+,Massachusetts ,,"175,419",**,**,**,**,**,**,**,"175,419"
+,New Hampshire ,,"4,650",**,**,**,**,**,**,**,"4,650"
+,New Jersey/b,,"126,390","1,955","13,945","42,837","63,438","3,230",985,0,0
+,New York ,,"119,963",**,"21,170","25,613","23,366","24,266","2,502","20,914","2,132"
+,Pennsylvania/c,,"176,987",**,836,"1,131",947,209,**,"1,237","172,627"
+,Rhode Island ,,"26,137","2,630","4,770","2,750","7,703",257,937,"7,090",0
+,Vermont/b,,"7,059",561,"1,437","1,876",606,"1,334",472,678,95
+Midwest,,,"1,012,378","24,065","23,083","56,943","55,466","86,141","27,213","38,710","700,757"
+,Illinois,,"142,790",**,**,**,**,**,**,**,"142,790"
+,Indiana ,,"126,562",**,**,**,**,**,**,**,"126,562"
+,Iowa,,"22,776",**,**,**,**,**,**,**,"22,776"
+,Kansas ,,"16,131",**,**,**,**,**,**,**,"16,131"
+,Michigan/b,,"182,706","6,312","1,410","4,805","6,638","12,891","3,230","2,583","144,837"
+,Minnesota ,,"127,797","5,342","11,176","17,624","13,249","50,844","12,808","16,754",0
+,Missouri,,"56,240","5,120","1,476","16,621","20,970","3,669",926,"6,823",635
+,Nebraska ,,"18,910",884,"1,156","2,475","1,530","7,120","2,519","3,226",0
+,North Dakota,,"4,468",**,775,"1,417","1,880",136,**,260,0
+,Ohio/b,,"254,898","6,407","7,090","14,001","11,199","11,481","7,730","9,064","187,926"
+,South Dakota ,,"5,870",**,**,**,**,**,**,**,"5,870"
+,Wisconsin ,,"53,230",**,**,**,**,**,**,**,"53,230"
+South/a,,,"1,750,300","22,787","203,902","342,183","366,790","170,928","41,045","195,119","407,546"
+,Alabama,,"51,745",654,345,"1,112",191,"1,534",**,**,"47,909"
+,Arkansas/b,,"31,676",824,"4,150","12,544","11,245",35,91,"2,787",0
+,Delaware ,,"16,696",256,"3,413","2,829","1,971","3,466",**,"4,761",0
+,District of Columbia ,,"6,485",79,"1,902","1,249","1,696",220,108,596,635
+,Florida/b,,"274,079","5,023","38,708","72,579","58,361","20,255","20,667","22,233","36,253"
+,Georgia ,,"435,361",361,"29,392","50,076","53,287","1,499",**,"16,035","284,711"
+,Kentucky ,,"42,510","8,561","3,809","9,631","14,200","4,829",955,525,0
+,Louisiana ,,"39,006",148,"2,680","11,693","18,405","2,057",77,"3,118",828
+,Maryland ,,"98,470",**,"14,492","15,522","26,981","20,499","3,948","17,028",0
+,Mississippi ,,"21,623",196,"2,774","8,803","8,721","1,055",47,27,0
+,North Carolina ,,"111,446","2,697","11,563","20,046","25,089","17,882","12,121","22,048",0
+,Oklahoma/d,,**,**,**,**,**,**,**,**,**
+,South Carolina ,,"42,721","1,274","4,705","9,167","8,068","1,377","1,820","16,310",0
+,Tennessee,,"56,179","2,714","5,329","9,506","11,658","3,516",147,"21,937","1,372"
+,Texas/b,,"434,309",**,"74,165","97,479","110,557","90,597",**,"61,511",0
+,Virginia/b,,"51,954",0,"6,450","19,876","16,240","1,518","1,064","6,203",603
+,West Virginia ,,"7,890",**,**,**,**,**,**,**,"7,890"
+West,,,"805,084","9,031","37,237","47,029","60,316","38,900","3,605","16,657","592,309"
+,Alaska ,,"6,416",**,**,**,**,**,**,**,"6,416"
+,Arizona,,"76,830","1,045","13,649","20,488","23,497","6,837",794,149,"10,371"
+,California ,,"353,969",**,**,**,**,**,**,**,"353,969"
+,Colorado/b,,"77,635","1,406",15,382,15,"9,000",953,722,"65,142"
+,Hawaii ,,"19,426",**,**,**,**,**,**,**,"19,426"
+,Idaho,,"48,663",268,"2,611","4,299","4,957","1,117",78,23,"35,310"
+,Montana,,"9,106",298,"1,516","2,431","2,485",760,18,926,672
+,Nevada ,,"13,461",**,**,**,**,**,**,**,"13,461"
+,New Mexico/b,,"20,774",**,**,**,**,**,**,**,"20,774"
+,Oregon ,,"43,732",955,"8,140","8,687","12,688","4,233",**,"9,029",0
+,Utah ,,"10,829",283,"1,694","3,834","3,711",769,343,140,55
+,Washington/b,,"118,885","4,473","8,955","5,483","11,301","15,309","1,365","5,286","66,713"
+,Wyoming ,,"5,358",303,657,"1,425","1,662",875,54,382,0
+**Not known.,,,,,,,,,,,
+"a/Includes an estimated 26,000 probationers under the supervision of Oklahoma's state agency on December 31, 2007, and 2,150 probationers under the supervision of two localities in Oklahoma on December 31, 2007. Of those 2,150 probationers, 25 were on probation for other violent offenses, 71 for a property offense, 120 for a drug law violation, 589 for a driving while intoxicated or under the influence offense, and offense was unknown or not reported for the remaining 1,345 probationers.",,,,,,,,,,,
+b/Some or all detailed data are estimated for specific offenses.,,,,,,,,,,,
+c/Detailed data represent state probationers only. Detailed data are not available for county probationers.,,,,,,,,,,,
+"d/The state agency did not provide data. An estimated 26,000 probationers were under the supervision of Oklahoma's state agencey on December 31, 2007. Two localities in Oklahoma reported 2,150 probationers under their supervision on December 31, 2007 and 25 were on probation for other violent offenses, 71 for a property offense, 120 for a drug law violation, and 589 for a driving while intoxicated or under the influence offense. Most serious offense was unknown or not reported for the remaining 1,345 probationers.",,,,,,,,,,,
