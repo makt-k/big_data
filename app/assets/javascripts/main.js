@@ -8,13 +8,13 @@ $(document).ready(function(){
       var entry;
       console.log("success");
 
-      json_data.forEach(function(el){
+      json_data.forEach(function(element){
           entry = {};
-          entry['fillKey'] = el.fill_color;
-          entry['reincarcerated'] = el.returned_to_jail;
-          entry['pop_at_risk'] = el.pop_at_risk;
-          entry['percent'] = el.percent;
-          jsonData[el.abbrev] = entry;
+          entry['fillKey'] = element.fill_color;
+          entry['reincarcerated'] = element.returned_to_jail;
+          entry['pop_at_risk'] = element.pop_at_risk;
+          entry['percent'] = element.percent;
+          jsonData[element.abbrev] = entry;
       });
       drawDatamap(jsonData);
     };
@@ -36,11 +36,11 @@ $(document).ready(function(){
       var map = new Datamap({
           element: document.getElementById('container'),
           fills: {
-              HIGH: 'red',
-              LOW: 'green',
-              MEDIUM: 'yellow',
-              UNKNOWN: 'gray',
-              defaultFill: 'gray'
+              HIGH: 'salmon',
+              LOW: 'lemonchiffon',
+              MEDIUM: 'lightsteelblue',
+              UNKNOWN: 'gainsboro',
+              defaultFill: 'gainsboro'
           },
           scope: 'usa',
           data: all_states_data,
